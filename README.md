@@ -53,7 +53,7 @@
 
 ## 📫 Cómo contactarme
 
-- Email: yerson@example.com
+- Email: yeyorejuela@gmail.com
 - LinkedIn: [linkedin.com/in/yerson-orejuela-056197276](https://linkedin.com/in/yerson-orejuela-056197276)
 
 ---
