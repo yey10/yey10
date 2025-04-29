@@ -43,15 +43,14 @@
 ## 📫 Cómo contactarme
 
 - Email: yerson@example.com
-- LinkedIn: [linkedin.com/in/yerson](https://linkedin.com/in/yerson)
-- Portafolio: [yerson.dev](https://yerson.dev) *(si tienes uno)*
+- LinkedIn: [linkedin.com/in/yerson-orejuela-056197276](https://linkedin.com/in/yerson-orejuela-056197276)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Yerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Yerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=yey10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yey10&layout=compact&theme=radical)
 
 ---
 
